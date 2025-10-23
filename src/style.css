@@ -164,7 +164,7 @@ body.overflow {
 }
 
 .content__list-item:hover,.content__list-diplom:hover {
-    background-color: #AFB1A7;
+    background-color: yellow;
 }
 
 li a {
@@ -289,4 +289,5 @@ li a {
     .sidebar__user {
         margin-left: 0;
     }
+
 }
